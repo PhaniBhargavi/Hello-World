@@ -14,4 +14,8 @@ first project sample
   {
   system.out.println ("sample java class program")
   }
+ public void method3()
+ {
+ system.out.println ("first commit")
+ }
   }
